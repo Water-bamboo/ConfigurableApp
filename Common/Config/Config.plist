@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>value</key>
+		<string>测试编译</string>
+		<key>id</key>
+		<string>CFBundleDisplayName</string>
+	</dict>
+	<dict>
+		<key>to</key>
+		<string>com.bundle.test</string>
+		<key>from</key>
+		<string>com.shuizhu.Common</string>
+	</dict>
+	<dict>
+		<key>value</key>
+		<string>2</string>
+		<key>id</key>
+		<string>CFBundleVersion</string>
+	</dict>
+</array>
+</plist>
